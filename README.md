@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# , Unity, and Blender.
 - 🌱 I’m currently learning Blender
 - 💞️ I’m looking to collaborate on a related project
-- 📫 How to reach me alimuteeba@gmail.com
+
 
 
 <!---
